@@ -24,14 +24,14 @@ The average fare per ride is significantly higher in Rural vs. Urban at almost $
 - Average Fare per Driver
   - Rural at $55.49  
   - Surburban at $39.50  
-  - Urban at $16.57 
-
-![Alt text](../../../../../../../c:/Users/Zack.Computer/OneDrive/Documents/GitHub/PyBer_Analysis/Analysis/KPI%20Summary.png)
+  - Urban at $16.57
+  
+![KPI Summary](https://user-images.githubusercontent.com/107363203/204168819-80cc98ed-c8c9-4973-88da-1f0d2801fb7b.png)
 
 ### Total Fare By City
  Urban has a the lead in fares with suburban in the middle and rural being the lowest. With this data being specifically from January 2019 to April 2019 we can state that urban rides cost significantly higher than the other two city types.
 
-![Alt text](../../../../../../../c:/Users/Zack.Computer/OneDrive/Documents/GitHub/PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/107363203/204168832-f029ce18-be11-4d34-8993-86bd3033051a.png)
 
 # Summary
 
